@@ -104,7 +104,7 @@ This project is licensed under the MIT License.
 ## 👨‍💻 Author
 
 - **SriVarshini Komirishetty**
--Visit: [https://github.com/Srivarshini04]
+- [https://github.com/Srivarshini04]
 
 ---
 
