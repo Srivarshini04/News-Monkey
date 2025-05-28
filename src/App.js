@@ -1,45 +1,5 @@
-// import logo from './logo.svg';
+
 import './App.css';
-
-/*
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
-
-export default App;*/
-
-
-//2.
-/*import React, { Component } from 'react'
-
-export default class App extends Component {
-  c="Varshini";
-  render() {
-    return (
-      <div>
-        Hello my First class based component {c}
-      </div>
-    )
-  }
-}*/
-
-
 import React,{useState} from 'react'
 import Navbar from './components/Navbar';
 import News from './components/News';
